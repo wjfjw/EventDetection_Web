@@ -1,0 +1,19 @@
+label
+{
+	font-family: "Helvetica Neue",Helvetica,Arial;
+	font-size:18px;
+	font-weight:400;
+}
+
+.foot {
+	margin: 0 auto;
+	width: 900px;
+	height: 150px;
+	text-align: center;
+	font-family: "微软雅黑", "宋体", Verdana;
+	font-size: 13px;
+	padding-top: 90px;
+	left: 149px;
+	top: 1827px;
+	color: #333;
+}
